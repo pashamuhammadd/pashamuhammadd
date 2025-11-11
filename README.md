@@ -16,7 +16,7 @@ Currently based in **Cianjur, West Java**, I enjoy turning creative ideas into d
 
 ### 🧩 Notable Projects & Experiences  
 - Animator for **BabyAndy**, **MoonTrump**, **NeiRei**, **Toshi**, and **ApeMan**.  
-- Lead of a local Facebook group with **53K+ active members**.  
+- Lead of a local [Facebook group](https://web.facebook.com/groups/racunootdkekinian) with **53K+ active members**.  
 
 ---
 
