@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Muhammad Nur Ibrahim Pasha**  
 *(You can call me **Pasha**)*
-![Profile Photo](https://github.com/pashamuhammadd.png)
+![Profile Photo]([https://github.com/pashamuhammadd.png](https://pbs.twimg.com/profile_banners/1616558661446553601/1746853077/1500x500))
 
 ---
 
