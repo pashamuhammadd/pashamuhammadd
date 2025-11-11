@@ -36,7 +36,7 @@ Currently based in **Cianjur, West Java**, I enjoy turning creative ideas into d
 
 ## 🌐 Social Media  
 Find me on:  
-**[Twitter (X)](https://x.com/_pashamuhammad)** • **[Discord](https://discord.gg/user/_pashamuhammad)** • **[Telegram](https://t.me/pashamuhammadd)** • **[Instagram](https://instagram.com/_pashamuhammad)** • **[TikTok](https://www.tiktok.com/@bentoheaven_)** • **[Facebook](https://web.facebook.com/pashamuhammadacc/)**
+**[Twitter (X)](https://x.com/_pashamuhammad)** • **[Discord](https://discord.gg/users/_pashamuhammad)** • **[Telegram](https://t.me/pashamuhammadd)** • **[Instagram](https://instagram.com/_pashamuhammad)** • **[TikTok](https://www.tiktok.com/@bentoheaven_)** • **[Facebook](https://web.facebook.com/pashamuhammadacc/)**
 
 ---
 
