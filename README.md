@@ -1,13 +1,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:FF2079,100:00F5FF&height=220&section=header&text=Muhammad%20Nur%20Ibrahim%20Pasha&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web3%20Animator%20%7C%20Programmer%20%7C%20Community%20Manager&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:00FFF7,100:FF00E4&height=220&section=header&text=Muhammad%20Nur%20Ibrahim%20Pasha&fontSize=38&fontColor=0D0208&animation=fadeIn&fontAlignY=35&desc=Founder%20%7C%20Programmer%20%7C%20Community%20Manager&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://github.com/pashamuhammadd.png" width="140" style="border-radius:50%;border:3px solid #00F5FF;" alt="Pasha's GitHub avatar"/>
+<img src="https://wsrv.nl/?url=github.com/pashamuhammadd.png&w=300&h=300&fit=cover&mask=circle" width="150" alt="Pasha's GitHub avatar"/>
 
 ### call me **Pasha** ⚡
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&width=640&lines=Freelance+Web3+Animator;Programmer+%26+Problem+Solver;Community+Manager+-+53K%2B+Members;Turning+Ideas+Into+Digital+Experiences" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=900&color=39FF14&background=00000000&center=true&vCenter=true&width=680&lines=%24+whoami;Muhammad+Nur+Ibrahim+Pasha+aka+Pasha;%24+cat+roles.txt;Founder+%7C+Programmer+%7C+Community+Manager;%24+echo+%24STATUS;Building+ideas+into+digital+experiences" alt="Terminal Typing SVG" />
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_pashamuhammad)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pashamuhammadd)
@@ -20,11 +20,20 @@
 ![Discord](https://img.shields.io/badge/Discord-_pashamuhammad-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 <!-- TODO: swap this placeholder for your real portfolio URL -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF3CAC?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/pashamuhammadd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF00E4?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/pashamuhammadd)
 
-![Profile Views](https://komarev.com/ghpvc/?username=pashamuhammadd&style=for-the-badge&color=7F00FF&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=pashamuhammadd&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS)
 
 </div>
+
+```js
+const pasha = {
+  role: ["Founder", "Programmer", "Community Manager"],
+  location: "Cianjur, West Java, Indonesia",
+  focus: ["Animation", "NFT Art", "Web3 Projects", "GIF Design"],
+  motto: "Code with creativity, animate with purpose, and build with heart.",
+};
+```
 
 ---
 
@@ -39,7 +48,7 @@ I'm a passionate individual who's been deeply into the world of technology since
 
 ## 💼 Current Occupation
 
-**Freelance Web3 Animator | Programmer | Community Manager**
+**Founder | Programmer | Community Manager**
 
 ### 🧩 Notable Projects & Experience
 
@@ -73,10 +82,10 @@ I'm a passionate individual who's been deeply into the world of technology since
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pashamuhammadd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=pashamuhammadd&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=pashamuhammadd&show_icons=true&theme=synthwave&hide_border=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=pashamuhammadd&theme=synthwave&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashamuhammadd&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashamuhammadd&layout=compact&theme=synthwave&hide_border=true" width="49%" />
 
 </div>
 
@@ -118,7 +127,7 @@ A snake that eats my GitHub contribution graph, regenerated automatically every 
 I'm more productive at **night** than during the day — that's when creativity flows best!
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:FF2079,100:7F00FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E4,50:00FFF7,100:39FF14&height=120&section=footer" width="100%"/>
 
 **Thanks for stopping by — see you around the metaverse ✨**
 </div>
